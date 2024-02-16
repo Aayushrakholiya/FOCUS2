@@ -2,13 +2,13 @@
 #include <stdio.h>
 
 int main(void) {
-    int sum = 0;
+    int add = 0;
     int i = 1;
     while (i <= 500)
     {
-        sum += i;
+        add += i;
         i++;
     }
-    printf("%d\n", sum);
+    printf("%d\n", add);
     return 0;
 }
