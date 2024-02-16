@@ -11,11 +11,11 @@
 
 int main(void) {
     int add = 0;
-    int i = 1;
-    while (i <= 500)
+    int j = 1;
+    while (j <= 500)
     {
-        add += i;
-        i++;
+        add += j;
+        j++;
     }
     printf("%d\n", add);
     return 0;
