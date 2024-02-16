@@ -1,7 +1,7 @@
 /*
 * FILE : f2.ccp
 * PROJECT : PROG1345 - Focused Assignment #2
-* STUDENT ID :8961894
+* 
 * PROGRAMMER : Ayushkumar Bhupatbhai Rakholiya
 * FIRST VERSION : 2024-01-23
 * DESCRIPTION :
